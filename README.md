@@ -26,7 +26,7 @@ pip install flask discord-webhook
 
 1. Clone or download this repository to your local machine.
 2. Create a directory for the log file if it doesn't exist. The log file will be stored in `~/.ssrf-server/ssrf-server.log`.
-3. Replace the `webhook_url` , `public_ip` and `open_port`  in the script with your own Discord webhook URL, Public IP Address and Open Port.
+3. Replace the `discord_webhook_url` , `public_ip` and `open_port`  in the script with your own Discord webhook URL, Public IP Address and Open Port.
 
 ## Usage
 
