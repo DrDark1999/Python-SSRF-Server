@@ -1,8 +1,6 @@
-# Python-SSRF-Server
-Your own SSRF Server
-# SSRF Server
+# Python SSRF Server
 
-This project implements a simple SSRF (Server-Side Request Forgery) server using Flask. The server logs incoming HTTP requests and sends notifications to a Discord webhook whenever a request is made, excluding DNS requests. This can be useful for testing SSRF vulnerabilities and monitoring suspicious activities.
+This project implements a simple Python SSRF (Server-Side Request Forgery) server using Flask. The server logs incoming HTTP requests and sends notifications to a Discord webhook whenever a request is made, excluding DNS requests. This can be useful for testing SSRF vulnerabilities and monitoring suspicious activities.
 
 ## Features
 
